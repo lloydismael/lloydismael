@@ -50,7 +50,6 @@ I'm an IT professional based in **Makati City, Philippines**, with **9+ years ac
   <img src="https://img.shields.io/badge/Azure_Static_Web_Apps-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure_Functions-0062AD?style=flat-square&logo=azurefunctions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft365&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
 </p>
 
 **Languages &amp; Frameworks**
