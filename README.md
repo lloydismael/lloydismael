@@ -98,8 +98,6 @@ I'm an IT professional based in **Makati City, Philippines**, with **9+ years ac
   <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ITIL_4-6E4C9E?style=flat-square&logo=axelos&logoColor=white"/>
 </p>
 
 ---
